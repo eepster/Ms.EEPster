@@ -1,4 +1,4 @@
-title: "Experience"
+title: Experience
 date: 2025-02-09
 Student Assistant at Cal State LA 
 Crew Member at McDonalds 
